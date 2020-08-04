@@ -4,3 +4,4 @@ git_add
 git_commit
 git_rm
 git_status
+合っているか。
