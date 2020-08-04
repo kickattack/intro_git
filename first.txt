@@ -1,8 +1,0 @@
-gitの練習を開始
-gitの変更を勉強
-git_add
-git_commit
-git_rm
-git_status
-合っているか。
-正常
