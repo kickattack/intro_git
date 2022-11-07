@@ -1,1 +1,1 @@
-gitを変更しました。sasa
+git status
